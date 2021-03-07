@@ -1,4 +1,4 @@
-//created by Akshay Joseph and Inspired by Jo
+//created by Akshay Joseph and Inspired by  Jo
 uint8_t buf[8] = { 0 };
 #include <EEPROM.h>
 #include <ezButton.h>
